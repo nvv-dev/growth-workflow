@@ -11,6 +11,7 @@ These skills were written from scratch. No text was copied from the projects bel
 | app-store-listing | [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) (aso) |
 | launch-checklist | [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) (launch) |
 | legal-pages-check | [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) (legal: compliance-check); Colombia's Law 1581 of 2012 as the worked example |
+| pricing-research | [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) (pricing, offers: price between the next-best alternative and perceived value, cost as a floor only, test on new customers) |
 
 Ideas were taken at these commits: social-media-skills `10ca79c`, marketingskills `0cd9b3a`. Business data lives in files the skills read (`.agents/product-context.md`, `.agents/voice.md`) instead of being written into each skill, so the skills stay generic.
 
