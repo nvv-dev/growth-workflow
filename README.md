@@ -1,6 +1,6 @@
 # growth-workflow
 
-Skills de marketing y lanzamiento para agentes: contexto del producto, perfil de voz, copy de landings con prueba para cada afirmación, revisión de posts, fichas de tiendas de apps, checklist de lanzamiento y revisión de páginas legales. Funcionan como plugin de Claude Code y también como carpetas sueltas que puedes leer, copiar o adaptar a cualquier agente compatible con el formato [Agent Skills](https://agentskills.io) (`SKILL.md`).
+Skills de marketing y lanzamiento para agentes: contexto del producto, perfil de voz, copy de landings con prueba para cada afirmación, revisión de posts, fichas de tiendas de apps, checklist de lanzamiento, revisión de páginas legales e investigación de precios. Funcionan como plugin de Claude Code y también como carpetas sueltas que puedes leer, copiar o adaptar a cualquier agente compatible con el formato [Agent Skills](https://agentskills.io) (`SKILL.md`).
 
 *English version below.*
 
@@ -19,6 +19,7 @@ Que el trabajo de marketing hecho con agentes salga de hechos y no de suposicion
 | [app-store-listing](skills/app-store-listing/SKILL.md) | Ficha de Play Store y App Store coherente con la sección de seguridad de datos | Sola, al preparar una ficha |
 | [launch-checklist](skills/launch-checklist/SKILL.md) | Antes y después de lanzar: medición, páginas legales, ficha, anuncio, canal de comentarios y vuelta atrás | Solo a mano |
 | [legal-pages-check](skills/legal-pages-check/SKILL.md) | Privacidad, términos y cookies contra una lista por país (Colombia, Ley 1581, como ejemplo) y contra lo que la app declara; no es asesoría legal | Solo a mano |
+| [pricing-research](skills/pricing-research/SKILL.md) | Por producto o servicio: piso de costo, rango de la competencia con fuente y fecha, techo de valor y una recomendación con su supuesto y cómo probarla; no publica ni cambia precios ni da asesoría tributaria | Solo a mano |
 
 "Solo a mano" significa que la skill tiene `disable-model-invocation: true`: no se carga sola y la invocas tú (por ejemplo `/growth-workflow:launch-checklist`). Así no ocupa contexto en cada sesión.
 

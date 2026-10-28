@@ -1,7 +1,7 @@
 {
   "name": "growth-workflow",
-  "version": "0.1.0",
-  "description": "Marketing and launch skills: a versioned product context, a voice profile, landing page copy with proof for every claim, social post review, app store listings, a launch checklist and a legal pages check that flags what a lawyer must see.",
+  "version": "0.2.0",
+  "description": "Marketing and launch skills: a versioned product context, a voice profile, landing page copy with proof for every claim, social post review, app store listings, a launch checklist, a legal pages check that flags what a lawyer must see, and pricing research with a cost floor, competitor range and value ceiling.",
   "author": {
     "name": "nvvdev",
     "url": "https://github.com/nvv-dev"
@@ -9,5 +9,5 @@
   "homepage": "https://github.com/nvv-dev/growth-workflow",
   "repository": "https://github.com/nvv-dev/growth-workflow",
   "license": "MIT",
-  "keywords": ["skills", "marketing", "copywriting", "launch", "aso", "privacy", "content"]
+  "keywords": ["skills", "marketing", "copywriting", "launch", "pricing", "aso", "privacy", "content"]
 }
